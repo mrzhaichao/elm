@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 100px;
+    width: 100%;
+}
+
+body{
+    font-size: 0.12rem;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
